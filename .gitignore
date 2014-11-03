@@ -16,6 +16,9 @@ gen/
 .gradle/
 build/
 
+# Android Studio
+/.idea
+
 # Local configuration file (sdk path, etc)
 local.properties
 
@@ -24,3 +27,6 @@ proguard/
 
 # Log Files
 *.log
+
+# Stupid Mac OS X Files
+.DS_Store
